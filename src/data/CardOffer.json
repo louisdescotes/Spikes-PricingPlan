@@ -1,0 +1,50 @@
+{
+    "offer1": {
+        "icon": "Icon.png",
+        "title": "Essentiel",
+        "price": "$179",
+        "offers": [
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +2500 vues/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +60 clics sur votre site",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +15 appels/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +15 demandes d'itinéraires",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> Plus de visibilité sur Google",
+            "Réponse aux avis google inclus"
+        ],
+        "type": ""
+    },
+
+    "offer2": {
+        "icon": "2.png",
+        "title": "Ultime",
+        "price": "$439",
+        "offers": [
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +6500 vues/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +200 clics sur votre site",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +40 appels/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +40 demandes d'itinéraires",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> Plus de visibilité sur Google",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> Réponse aux avis google inclus",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> 1 shooting",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> QR code personnalisé"
+        ],
+        "type": "main"
+    },
+
+    "offer3": {
+        "icon": "Icon.png",
+        "title": "Premium",
+        "price": "$319",
+        "offers": [
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +11 000 vues/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +500 clics sur votre site",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +80 appels/mois",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> +80 demandes d'itinéraires",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> Plus de visibilité sur Google",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> Réponse aux avis google inclus",
+            "<svg width=\"17\" height=\"12\" viewBox=\"0 0 17 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.68457 6.97513C8.91572 13.0493 10.3619 12.76 15.8576 1.76871\" stroke=\"white\" stroke-width=\"1.65283\" stroke-linecap=\"round\"/></svg> 1 shooting",
+            "Réponse aux avis google inclus"
+        ],
+        "type": ""
+    }
+}
